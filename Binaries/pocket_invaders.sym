@@ -1,5 +1,5 @@
 ; this file was created with wlalink by ville helin <vhelin@iki.fi>.
-; wla symbolic information for "Binaries\Alien-Invaders.sms".
+; wla symbolic information for "Binaries\pocket_invaders.sms".
 
 [labels]
 0000:c0fe VDPStatus
